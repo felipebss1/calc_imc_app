@@ -1,16 +1,7 @@
-# calc_imc_app
+# Calculadora IMC
 
-A new Flutter project.
+Este projeto tem o objetivo de ser a conclusão do desafio "Criando uma Calculadora de IMC com Flutter", proposto por Danilo Perez, no Santander Bootcamp 2023, em parceria com a Digital Innovation One.
 
-## Getting Started
+# O Projeto
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto teve como objetivo mostrar as novas habilidades com o framework Flutter, baseado no atual módulo do bootcamp. Com isso, foi proposto um desafio para que criássemos uma calculadora de Índice de Massa Corporal, e assim podermos testar nossos conhecimentos e habilidades com lógica, bem como consultas à documentação do Flutter para melhor customização do app.
